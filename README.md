@@ -11,14 +11,14 @@
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/iamgetopdfbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yozmelar2/ImageToPdf)
 
 ### License
 
 ```
 MIT License
 
-Copyright (c) 2021 Lntechnical
+Copyright (c) 2021 Lntechnica
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,11 +39,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Support 🇮🇳
-<a href="https://t.me/lntechnical">
-   <p> Telegram </p>
-  </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
-  </a>
+
 
