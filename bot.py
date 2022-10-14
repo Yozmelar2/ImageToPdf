@@ -5,11 +5,11 @@ from pyrogram.types import (InlineKeyboardButton,  InlineKeyboardMarkup)
 
 from pyrogram.errors.exceptions.bad_request_400 import UserNotParticipant
 
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "5752725687:AAFEKJbf2yXwsvaFmWViQkK4bQK7ljy2yEo")
 
-API_ID = int(os.environ.get("API_ID", 12345))
+API_ID = int(os.environ.get("API_ID", 534493))
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "ac922823455e814e44020a9f3ee17914")
 app = Client(
         "pdf",
         bot_token=TOKEN,api_hash=API_HASH,
